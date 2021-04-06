@@ -6,27 +6,23 @@
 
 ## Anime Waver
 
-### To view this webpage
+### Git cmd
 
 1. Get the repo
 
 ``` 
-git clone https://github.com/Mathesh099/frontend.git 
+git clone https://github.com/Mathesh099/mathesh099.github.io.git
 ```
 
-2. Change directory to **frontend**
-
-```cmd 
-cd frontend/ 
-```
-
-3. To get the files from **Project-1** branch
+2. To get the files from **Project-1** branch
 
 ```
-git fetch && git checkout Project-1 
+git fetch && git checkout main
 ```
 
-4. After getting the files from repo click the **Anime Waver** HTML file to see the webpage.
+4. After getting the files from repo open the **index** HTML file to see the webpage.
+
+### Webpage url
 
 5. Or the below link will direct you to the webpage I created.
 
