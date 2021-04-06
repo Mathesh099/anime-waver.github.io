@@ -28,7 +28,7 @@ git fetch && git checkout Project-1
 
 4. After getting the files from repo click the **Anime Waver** HTML file to see the webpage.
 
-5. Or by clicking this below link it will direct you to the webpage I created.
+5. Or the below link will direct you to the webpage I created.
 
 ```
 https://mathesh099.github.io/
