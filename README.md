@@ -1,4 +1,5 @@
 ## Anime Waver
+In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
 
 ### Git cmd
 
