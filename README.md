@@ -6,7 +6,7 @@ In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this 
 - Get the repo
 
 ``` 
-git clone https://github.com/Mathesh099/mathesh099.github.io.git
+git clone https://github.com/Mathesh099/anime-waver.github.io.git
 ```
 
 - After getting the files from repo open the **index** HTML file to see the webpage.
